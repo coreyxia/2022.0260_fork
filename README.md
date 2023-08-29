@@ -18,9 +18,9 @@ Below is the BibTex for citing this version of the repository.
 @article{ObjCh,
 author = { A. Aghasi and A. Rai and Y. Xia },
 publisher = {INFORMS Journal on Computing},
-title = {{ObjCh} Version v2022.0260},
-year = {2022},
-doi = {10.5281/zenodo.7348935},
+title = {{ObjCh} Version v1.0.0},
+year = {2023},
+doi = {10.5072/zenodo.1235509 },
 url = {https://github.com/INFORMSJoC/2022.0260},
 }
 
